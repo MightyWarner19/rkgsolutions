@@ -1,0 +1,25 @@
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+<Files 403.shtml>
+order allow,deny
+</Files>
+
+
+
+
+
+##Block bad bots
+RewriteEngine On 
+
+
+ErrorDocument 404 /404.php
+RewriteRule ^(.*)index.php$ /$1 [R=301,L]
+RewriteEngine On
+
+
+
+
+
+
+
+
