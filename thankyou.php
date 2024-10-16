@@ -201,7 +201,22 @@ img {
 
                 <!--begin col-md-2 -->
                 <div class="col-md-6">
-                   <p style="text-align:center;text-align:justify;padding: 10px;">All licenses are issued directly by Intuit. RalphAccounting is an authorized ProAdvisor for all Intuit QuickBooks products.Ralph Accounting is an Intuit ®️ Certified QuickBooks®️ ProAdvisor ®️ for certain Intuit®️ products. The Intuit®️logo, Intuit®️, QuickBooks®️, ProAdvisor ®️, are the registered logos, trademarks, and brand names of Intuit Inc and are mentioned on this website are solely used for reference purpose as per Intuit®️ Certified QuickBooks®️ ProAdvisor®️ agreement. Other third-party logos are used for reference purposes only and belong to their respective owners. We assume no liability or responsibility for any errors in the content of this website or such other  materials. </br>With questions call: (877) 412-3877.</p>
+                    <p style="text-align:center;text-align:justify;padding: 10px;">All licenses are issued directly by
+                        Intuit. RKG Enterprizes LLC is an authorized ProAdvisor for all Intuit <span
+                            class="qbimgsml"><img
+                                src="https://imagedelivery.net/TBVX3I1cB0rouP8mtMGMzA/63a66576-61c2-4699-b3e2-8a887ae92700/public"></span>
+                        products.RKG Enterprizes LLC is an Intuit ®️ Certified <span class="qbimgsml"><img
+                                src="https://imagedelivery.net/TBVX3I1cB0rouP8mtMGMzA/63a66576-61c2-4699-b3e2-8a887ae92700/public"></span>
+                        ProAdvisor ®️ for certain Intuit®️ products. The Intuit®️logo, Intuit®️, <span
+                            class="qbimgsml"><img
+                                src="https://imagedelivery.net/TBVX3I1cB0rouP8mtMGMzA/63a66576-61c2-4699-b3e2-8a887ae92700/public"></span>,
+                        ProAdvisor ®️, are the registered logos, trademarks, and brand names of Intuit Inc and are
+                        mentioned on this website are solely used for reference purpose as per Intuit®️ Certified <span
+                            class="qbimgsml"><img
+                                src="https://imagedelivery.net/TBVX3I1cB0rouP8mtMGMzA/63a66576-61c2-4699-b3e2-8a887ae92700/public"></span>
+                        ProAdvisor®️ agreement. Other third-party logos are used for reference purposes only and belong
+                        to their respective owners. We assume no liability or responsibility for any errors in the
+                        content of this website or such other materials.</p>
 
 
                 </div>
