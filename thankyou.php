@@ -97,22 +97,22 @@
                         <!--begin navbar-nav -->
                         <ul class="navbar-nav ml-auto">
 
-                            <li><a href="#home">HOME</a></li>
+                            <li><a href="https://rkgaccountingsolution.com/#home">HOME</a></li>
 
-                            <li><a href="#about">ABOUT</a></li>
-							<li><a href="#features">FEATURES</a></li>
+                            <li><a href="https://rkgaccountingsolution.com/#about">ABOUT</a></li>
+							<li><a href="https://rkgaccountingsolution.com/#features">FEATURES</a></li>
 
-						   <li><a href="#pricing">PRICING</a></li>
-                            <li><a href="#contact">CONTACT</a></li>
-
+						   <li><a href="https://rkgaccountingsolution.com/#pricing">PRICING</a></li>
+                            <li><a href="https://rkgaccountingsolution.com/#contact">CONTACT</a></li>
+<!-- 
                             <div class="addCardIcon" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
 
                                 <i class="bi bi-cart"></i>
 
-                            </div>
+                            </div> -->
 
 
-                            <li class="discover-link"><a href="#contact" class="discover-btn">Contact Us</a></li>
+                            <li class="discover-link"><a href="https://rkgaccountingsolution.com/#contact" class="discover-btn">Contact Us</a></li>
                         </ul>
                         <!--end navbar-nav -->
 
@@ -249,7 +249,7 @@ img {
                 <!--begin col-md-2 -->
                 <div class="col-md-8">
 
-                    <p style="text-align:center">© 2023 Ralph Accounting All rights reserved.</p>
+                    <p style="text-align:center">© 2024 Ralph Accounting All rights reserved.</p>
 
                 </div>
                 <!--end col-md-2 -->
@@ -270,7 +270,7 @@ img {
 
 <!-- Load JS here for greater good =============================-->
 <script src="js/jquery-3.3.1.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
+<!-- <script src="js/bootstrap.min.js"></script> -->
 <script src="js/jquery.scrollTo-min.js"></script>
 <script src="js/jquery.magnific-popup.min.js"></script>
 <script src="js/jquery.nav.js"></script>
