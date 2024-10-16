@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="">
     <meta name="description" content="We respect your privacy. Hence, we will not share or sell your information to any third party.Your information is important to us and we want you to manage it yourself;">
-    <link rel="canonical" href="https://ralphbooks.com/dubai/term&condition.php"/>
+    <link rel="canonical" href="https://rkgaccountingsolution.com/dubai/term&condition.php"/>
 
     <title>Term & Condition | QuickBooks Cloud Hosting</title>
     
@@ -102,7 +102,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <!-- Default Statcounter code for QuickBooks
-https://ralphbooks.com/dubai/ -->
+https://rkgaccountingsolution.com/dubai/ -->
 <script type="text/javascript">
 var sc_project=12541454; 
 var sc_invisible=1; 
@@ -139,7 +139,7 @@ script.src = target;var elem = document.head;elem.appendChild(script);
             <div class="container">
 
                     <!--begin logo -->
-                    <a class="navbar-brand" href="https://ralphbooks.com/dubai/">
+                    <a class="navbar-brand" href="https://rkgaccountingsolution.com/dubai/">
 					<img src="images/qbklogo.jpeg" alt="logo" width="150px">
 					</a>
                     <!--end logo -->
@@ -156,13 +156,13 @@ script.src = target;var elem = document.head;elem.appendChild(script);
                         <!--begin navbar-nav -->
                         <ul class="navbar-nav ml-auto">
 
-                            <li><a href="https://ralphbooks.com/dubai/">HOME</a></li>
+                            <li><a href="https://rkgaccountingsolution.com/dubai/">HOME</a></li>
 
-                            <li><a href="https://ralphbooks.com/dubai/#about">ABOUT</a></li>
-							<li><a href="https://ralphbooks.com/dubai/#features">FEATURES</a></li>
+                            <li><a href="https://rkgaccountingsolution.com/dubai/#about">ABOUT</a></li>
+							<li><a href="https://rkgaccountingsolution.com/dubai/#features">FEATURES</a></li>
                           
-						   <li><a href="https://ralphbooks.com/dubai/#pricing">PRICING</a></li>
-                            <li><a href="https://ralphbooks.com/dubai/#contact">CONTACT</a></li>
+						   <li><a href="https://rkgaccountingsolution.com/dubai/#pricing">PRICING</a></li>
+                            <li><a href="https://rkgaccountingsolution.com/dubai/#contact">CONTACT</a></li>
                                                
 
                             <li class="discover-link"><a href="tel:+9718000120110" class="discover-btn">Call Now: +971-800-0120-110</a></li>
@@ -201,7 +201,7 @@ script.src = target;var elem = document.head;elem.appendChild(script);
  
                   <h4>AGREEMENT</h4>
  
-<p>This Agreement describes the terms governing your use of the <a href="https://ralphbooks.com/dubai/">Ralph Accounting services</a> and products provided to you on this website, including content, updates and new releases, (collectively, the “Services”). It includes by reference:</p>
+<p>This Agreement describes the terms governing your use of the <a href="https://rkgaccountingsolution.com/dubai/">Ralph Accounting services</a> and products provided to you on this website, including content, updates and new releases, (collectively, the “Services”). It includes by reference:</p>
  
 <p>Ralph AccountingPrivacy Statement provided to you in the Services available on the website or provided to you otherwise.</p>
 <p>Additional Terms and Conditions, which may include those from third parties.

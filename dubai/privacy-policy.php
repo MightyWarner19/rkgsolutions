@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="QuickBooks Cloud Hosting Services in USA">
     <meta name="description" content="Read our Privacy Policy to learn how we create a structured approach to maintaining your hosted QuickBooks data.">
-    <link rel="canonical" href="https://ralphbooks.com/dubai/privacy-policy.php"/>
+    <link rel="canonical" href="https://rkgaccountingsolution.com/dubai/privacy-policy.php"/>
 
     <title>Privacy Policy | QuickBooks Cloud Hosting</title>
     
@@ -86,7 +86,7 @@ s0.parentNode.insertBefore(s1,s0);
 
 <body>
     <!-- Default Statcounter code for QuickBooks
-https://ralphbooks.com/ -->
+https://rkgaccountingsolution.com/ -->
 <script type="text/javascript">
 var sc_project=12541454; 
 var sc_invisible=1; 
@@ -123,7 +123,7 @@ script.src = target;var elem = document.head;elem.appendChild(script);
                 <div class="container">
 
                     <!--begin logo -->
-                    <a class="navbar-brand" href="https://ralphbooks.com/dubai/">
+                    <a class="navbar-brand" href="https://rkgaccountingsolution.com/dubai/">
 					<img src="images/qbklogo.jpeg" alt="logo" width="150px">
 					</a>
                     <!--end logo -->
@@ -140,13 +140,13 @@ script.src = target;var elem = document.head;elem.appendChild(script);
                         <!--begin navbar-nav -->
                         <ul class="navbar-nav ml-auto">
 
-                            <li><a href="https://ralphbooks.com/dubai/">HOME</a></li>
+                            <li><a href="https://rkgaccountingsolution.com/dubai/">HOME</a></li>
 
-                            <li><a href="https://ralphbooks.com/dubai/#about">ABOUT</a></li>
-							<li><a href="https://ralphbooks.com/dubai/#features">FEATURES</a></li>
+                            <li><a href="https://rkgaccountingsolution.com/dubai/#about">ABOUT</a></li>
+							<li><a href="https://rkgaccountingsolution.com/dubai/#features">FEATURES</a></li>
                           
-						   <li><a href="https://ralphbooks.com/dubai/#pricing">PRICING</a></li>
-                            <li><a href="https://ralphbooks.com/dubai/#contact">CONTACT</a></li>
+						   <li><a href="https://rkgaccountingsolution.com/dubai/#pricing">PRICING</a></li>
+                            <li><a href="https://rkgaccountingsolution.com/dubai/#contact">CONTACT</a></li>
                                                
 
                             <li class="discover-link"><a href="tel:+9718000120110" class="discover-btn">Call Now: +971-800-0120-110</a></li>
@@ -181,9 +181,9 @@ script.src = target;var elem = document.head;elem.appendChild(script);
                   
 
                     <p>Ralph Accounting is dedicated to establishing a trusting relationship with its users, based on respect for personal identity and information, by promoting the use of fair information practices. This privacy statement covers all Web properties owned and maintained Ralph Accounting, including but not limited to Ralph Accountingwants to demonstrate its commitment to our users’ privacy, we are disclosing:</p>
-                    <p>If users have questions or concerns regarding this statement, they should contact Ralph Accounting Customer Support by email at help@ralphbooks.com</p>
+                    <p>If users have questions or concerns regarding this statement, they should contact Ralph Accounting Customer Support by email at help@rkgaccountingsolution.com</p>
                  <b>  1.	A) Information Collection</b>
-<p>Ralph Accounting is the sole owner of the information collected on its web properties, including <a href="https://ralphbooks.com/dubai/">https://ralphbooks.com/dubai/</a> . Ralph Accounting collects information from its users at several different points on our Web sites.</p>
+<p>Ralph Accounting is the sole owner of the information collected on its web properties, including <a href="https://rkgaccountingsolution.com/dubai/">https://rkgaccountingsolution.com/dubai/</a> . Ralph Accounting collects information from its users at several different points on our Web sites.</p>
 <b>1) Registration</b>
 <p>In order to use Ralph Accounting services at any level, and to access certain information or areas of the website, a user may be required to complete a registration form. During registration a user is required to give contact information (such as name, telephone number or an email address). We use this information to contact the user about products and services on our sites. It is optional customer to provide demographic information (such as income level and gender), but encouraged so we can provide a more personalized experience on our sites.</p>
 <b>2) Order</b>
@@ -235,7 +235,7 @@ Check out the FTC’s site for more tips on protecting children’s privacy onli
 <b>3) Data Retention</b>
 <p>The time period for which we keep information varies according to what the information is used for. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we will retain it for no longer than is necessary for the purposes for which the data was collected or for which it is to be further processed.</p>
 <b>1.	F) Supplementation of Information</b>
-<p>In order for Ralph Accountingto properly fulfill its obligations to users and understand our customer demographics it is necessary for us to supplement the information we receive with information from 3rd party sources. Ralph Accountingverifies the billing address on all credit card transactions and may obtain credit reports for some corporate customers. The information obtained from these third party sources is maintained in a manner consistent with <a href="https://ralphbooks.com/dubai/">Ralph Accounting</a> Privacy Policy.
+<p>In order for Ralph Accountingto properly fulfill its obligations to users and understand our customer demographics it is necessary for us to supplement the information we receive with information from 3rd party sources. Ralph Accountingverifies the billing address on all credit card transactions and may obtain credit reports for some corporate customers. The information obtained from these third party sources is maintained in a manner consistent with <a href="https://rkgaccountingsolution.com/dubai/">Ralph Accounting</a> Privacy Policy.
 <b>1.	G) Correcting/Updating/Deleting/Deactivating Personal Information</b>
 <p>If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information by contacting Ralph AccountingCustomer Service.</p>
 <b>1.	H) Notification of Changes</b>

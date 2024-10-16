@@ -129,7 +129,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="container">
 
                     <!--begin logo -->
-                    <a class="navbar-brand" href="https://ralphbooks.com/dubai/">
+                    <a class="navbar-brand" href="https://rkgaccountingsolution.com/dubai/">
 					<img src="images/qbklogo.jpeg" alt="logo" width="150px">
 					</a>
                     <!--end logo -->
@@ -146,13 +146,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!--begin navbar-nav -->
                         <ul class="navbar-nav ml-auto">
 
-                            <li><a href="https://ralphbooks.com/dubai/">HOME</a></li>
+                            <li><a href="https://rkgaccountingsolution.com/dubai/">HOME</a></li>
 
-                            <li><a href="https://ralphbooks.com/dubai/#about">ABOUT</a></li>
+                            <li><a href="https://rkgaccountingsolution.com/dubai/#about">ABOUT</a></li>
 							<li><a href="#features">FEATURES</a></li>
                           
-						   <li><a href="https://ralphbooks.com/dubai/#pricing">PRICING</a></li>
-                            <li><a href="https://ralphbooks.com/dubai/#contact">CONTACT</a></li>
+						   <li><a href="https://rkgaccountingsolution.com/dubai/#pricing">PRICING</a></li>
+                            <li><a href="https://rkgaccountingsolution.com/dubai/#contact">CONTACT</a></li>
                                                
 
                             <li class="discover-link"><a href="tel:+9718000120110" class="discover-btn">Call Now: +971-800-0120-110</a></li>
@@ -206,10 +206,10 @@ img {
               <p class="lead">Our Team Will Contact You Soon</p>
               <hr style="height:2px;background-color:red">
               <p>
-                Having trouble? <a href="https://ralphbooks.com/dubai/">Contact us</a> | Call Us: <a href="tel:+971-800-0120-110">+971-800-0120-110</a>
+                Having trouble? <a href="https://rkgaccountingsolution.com/dubai/">Contact us</a> | Call Us: <a href="tel:+971-800-0120-110">+971-800-0120-110</a>
               </p>
               <p class="lead">
-                <a class="btn btn-primary btn-sm" href="https://ralphbooks.com/dubai/" role="button">Continue to homepage</a>
+                <a class="btn btn-primary btn-sm" href="https://rkgaccountingsolution.com/dubai/" role="button">Continue to homepage</a>
               </p>
               <br><br><br>
             </div>

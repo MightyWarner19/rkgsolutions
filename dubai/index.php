@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="Best QuickBooks Cloud Hosting Services in USA, Cloud Hosting Services">
     <meta name="description" content="Ralph Books is an Authorized Hosting Provider for QuickBooks. Secure and reliable application hosting with always-on support.">
-    <link rel="canonical" href="https://ralphbooks.com/dubai/"/>
+    <link rel="canonical" href="https://rkgaccountingsolution.com/dubai/"/>
 
     <title>QuickBooks Cloud Hosting</title>
     
@@ -103,7 +103,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     
 <!-- Default Statcounter code for QuickBooks
-https://ralphbooks.com/dubai/ -->
+https://rkgaccountingsolution.com/dubai/ -->
 <script type="text/javascript">
 var sc_project=12541454; 
 var sc_invisible=1; 
@@ -140,7 +140,7 @@ script.src = target;var elem = document.head;elem.appendChild(script);
             <div class="container">
 
                     <!--begin logo -->
-                    <a class="navbar-brand" href="https://ralphbooks.com/dubai/">
+                    <a class="navbar-brand" href="https://rkgaccountingsolution.com/dubai/">
 					<img src="images/qbklogo.jpeg" alt="logo" width="150px">
 					</a>
                     <!--end logo -->
@@ -1161,7 +1161,7 @@ script.src = target;var elem = document.head;elem.appendChild(script);
                             <!--end success message -->
                             
                             <!--begin contact form -->
-                            <form class="row contact-form contact" action="https://ralphbooks.com/dubai/thankyou.php" method="POST">
+                            <form class="row contact-form contact" action="https://rkgaccountingsolution.com/dubai/thankyou.php" method="POST">
                                     
                                 <!--begin col-md-6-->
                                 <div class="col-md-6">

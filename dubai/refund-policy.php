@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="">
     <meta name="description" content="We believe QuickBooks Online is the best hosting service for your business. And to eliminate the risk and stress that come with choosing a new software, we'll refund your entire purchase price up to 45 days from your sign-up date if you don't love it.">
-    <link rel="canonical" href="https://ralphbooks.com/dubai/refund-policy.php"/>
+    <link rel="canonical" href="https://rkgaccountingsolution.com/dubai/refund-policy.php"/>
 
     <title>Refund Policy | QuickBooks Cloud Hosting</title>
     
@@ -102,7 +102,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 <!-- Default Statcounter code for QuickBooks
-https://ralphbooks.com/dubai/ -->
+https://rkgaccountingsolution.com/dubai/ -->
 <script type="text/javascript">
 var sc_project=12541454; 
 var sc_invisible=1; 
@@ -139,7 +139,7 @@ script.src = target;var elem = document.head;elem.appendChild(script);
                <div class="container">
 
                     <!--begin logo -->
-                    <a class="navbar-brand" href="https://ralphbooks.com/dubai/">
+                    <a class="navbar-brand" href="https://rkgaccountingsolution.com/dubai/">
 					<img src="images/qbklogo.jpeg" alt="logo" width="150px">
 					</a>
                     <!--end logo -->
@@ -155,13 +155,13 @@ script.src = target;var elem = document.head;elem.appendChild(script);
                         <!--begin navbar-nav -->
                         <ul class="navbar-nav ml-auto">
 
-                            <li><a href="https://ralphbooks.com/dubai/">HOME</a></li>
+                            <li><a href="https://rkgaccountingsolution.com/dubai/">HOME</a></li>
 
-                            <li><a href="https://ralphbooks.com/dubai/#about">ABOUT</a></li>
-							<li><a href="https://ralphbooks.com/dubai/#features">FEATURES</a></li>
+                            <li><a href="https://rkgaccountingsolution.com/dubai/#about">ABOUT</a></li>
+							<li><a href="https://rkgaccountingsolution.com/dubai/#features">FEATURES</a></li>
                           
-						   <li><a href="https://ralphbooks.com/dubai/#pricing">PRICING</a></li>
-                            <li><a href="https://ralphbooks.com/dubai/#contact">CONTACT</a></li>
+						   <li><a href="https://rkgaccountingsolution.com/dubai/#pricing">PRICING</a></li>
+                            <li><a href="https://rkgaccountingsolution.com/dubai/#contact">CONTACT</a></li>
                                                
 
                             <li class="discover-link"><a href="tel:+9718000120110" class="discover-btn">Call Now: +971-800-0120-110</a></li>
